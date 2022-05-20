@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/scalawithcats_2.13-0.0.1-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sandbox[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sandbox/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sandbox/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sandbox/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
