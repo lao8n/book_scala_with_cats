@@ -1,0 +1,49 @@
+2022.05.23 17:47:12 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nicholasdrake/Documents/scalawithcats/.metals/lsp.trace.json or /Users/nicholasdrake/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.05.23 17:47:13 INFO  logging to file /Users/nicholasdrake/Documents/scalawithcats/.metals/metals.log
+2022.05.23 17:47:13 INFO  Started: Metals version 0.11.5 in workspace '/Users/nicholasdrake/Documents/scalawithcats' for client Visual Studio Code 1.67.1.
+2022.05.23 17:47:15 INFO  time: initialize in 1.85s
+2022.05.23 17:47:15 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.23 17:47:15 WARN  Build server is not auto-connectable.
+2022.05.23 17:47:16 WARN  no build target for: /Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Ex1p3.scala
+2022.05.23 17:47:19 INFO  no build target found for /Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Ex1p3.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.23 17:47:21 INFO  time: code lens generation in 4.14s
+2022.05.23 17:47:25 INFO  running '/Users/nicholasdrake/.sdkman/candidates/java/current/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/mv/zs2v14bd54dfgzzf5rms5qqc0000gq/T/metals17687965445896082259/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.05.23 17:47:25 WARN  no build target for: /Users/nicholasdrake/Documents/scalawithcats/project/metals.sbt
+2022.05.23 17:47:25 WARN  no build target for: /Users/nicholasdrake/Documents/scalawithcats/project/project/metals.sbt
+2022.05.23 17:47:25 INFO  skipping build import with status 'Started'
+2022.05.23 17:47:27 ERROR WARNING: A terminally deprecated method in java.lang.System has been called
+2022.05.23 17:47:27 ERROR WARNING: System::setSecurityManager has been called by sbt.TrapExit$ (file:/Users/nicholasdrake/.sbt/boot/scala-2.12.10/org.scala-sbt/sbt/1.3.10/run_2.12-1.3.10.jar)
+2022.05.23 17:47:27 ERROR WARNING: Please consider reporting this to the maintainers of sbt.TrapExit$
+2022.05.23 17:47:27 ERROR WARNING: System::setSecurityManager will be removed in a future release
+2022.05.23 17:47:29 INFO  [info] Loading global plugins from /Users/nicholasdrake/.sbt/1.0/plugins
+2022.05.23 17:47:32 INFO  [info] Loading settings for project scalawithcats-build-build-build from metals.sbt ...
+2022.05.23 17:47:32 INFO  [info] Loading project definition from /Users/nicholasdrake/Documents/scalawithcats/project/project/project
+2022.05.23 17:47:35 INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+2022.05.23 17:47:35 INFO  [info] Loading settings for project scalawithcats-build-build from metals.sbt ...
+2022.05.23 17:47:36 INFO  [info] Loading project definition from /Users/nicholasdrake/Documents/scalawithcats/project/project
+2022.05.23 17:47:36 INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+2022.05.23 17:47:39 INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+2022.05.23 17:47:39 INFO  [success] Generated .bloop/scalawithcats-build-build.json
+2022.05.23 17:47:39 INFO  [success] Total time: 3 s, completed 23 May 2022, 17:47:39
+2022.05.23 17:47:40 INFO  [info] Loading settings for project scalawithcats-build from plugins.sbt,metals.sbt ...
+2022.05.23 17:47:40 INFO  [info] Loading project definition from /Users/nicholasdrake/Documents/scalawithcats/project
+2022.05.23 17:47:40 INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+2022.05.23 17:47:41 INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+2022.05.23 17:47:41 INFO  [success] Generated .bloop/scalawithcats-build.json
+2022.05.23 17:47:41 INFO  [success] Total time: 1 s, completed 23 May 2022, 17:47:41
+2022.05.23 17:47:44 INFO  [info] Loading settings for project scalawithcats from build.sbt ...
+2022.05.23 17:47:44 INFO  [info] Set current project to scalawithcats (in build file:/Users/nicholasdrake/Documents/scalawithcats/)
+2022.05.23 17:47:44 INFO  [success] Generated .bloop/scalawithcats.json
+2022.05.23 17:47:44 INFO  [success] Generated .bloop/scalawithcats-test.json
+2022.05.23 17:47:45 INFO  [success] Total time: 0 s, completed 23 May 2022, 17:47:45
+2022.05.23 17:47:45 INFO  time: ran 'sbt bloopInstall' in 19s
+2022.05.23 17:47:45 INFO  Attempting to connect to the build server...
+2022.05.23 17:47:55 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nicholasdrake/Documents/scalawithcats/.metals/bsp.trace.json or /Users/nicholasdrake/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.05.23 17:48:00 INFO  Attempting to connect to the build server...
+2022.05.23 17:48:00 INFO  Attempting to connect to the build server...
+2022.05.23 17:48:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nicholasdrake/Documents/scalawithcats/project/project/.metals/bsp.trace.json or /Users/nicholasdrake/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.05.23 17:48:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nicholasdrake/Documents/scalawithcats/project/.metals/bsp.trace.json or /Users/nicholasdrake/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.05.23 17:48:03 INFO  time: Connected to build server in 18s
+2022.05.23 17:48:03 INFO  Connected to Build server: Bloop v1.5.0
+2022.05.23 17:48:03 INFO  time: Imported build in 0.14s
+2022.05.23 17:48:13 INFO  time: indexed workspace in 9.65s

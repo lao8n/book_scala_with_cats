@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Main.scala:6:8: Main is already defined as object Main[0m
-[0m[[0m[31merror[0m] [0m[0mobject Main extends App {[0m
-[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Main.scala:15:16: value show is not a member of sandbox.CatShow[0m
+[0m[[0m[31merror[0m] [0m[0m  println(cat1.show)[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m

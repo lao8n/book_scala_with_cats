@@ -1,0 +1,4 @@
+[debug] [scalawithcats-test] Classpath dependencies List()
+[debug] [scalawithcats-test] Dependencies from configurations List(scalawithcats)
+[debug] Bloop wrote the configuration of project 'scalawithcats-test' to '/Users/nicholasdrake/Documents/scalawithcats/.bloop/scalawithcats-test.json'
+[success] Generated .bloop/scalawithcats-test.json
