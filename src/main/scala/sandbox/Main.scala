@@ -1,5 +1,6 @@
 package sandbox
 
+import cats.implicits.toShow
 import cats.instances.string._
 import cats.syntax.semigroup._
 

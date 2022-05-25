@@ -1,4 +1,7 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Main.scala:15:16: value show is not a member of sandbox.CatShow[0m
-[0m[[0m[31merror[0m] [0m[0m  println(cat1.show)[0m
-[0m[[0m[31merror[0m] [0m[0m               ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Main.scala:8:20: value |+| is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0m  println("Hello " |+| "Cats!")[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Main.scala:4:30: Unused import[0m
+[0m[[0m[31merror[0m] [0m[0mimport cats.instances.string._[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
