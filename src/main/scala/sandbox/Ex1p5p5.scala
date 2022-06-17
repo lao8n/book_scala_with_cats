@@ -1,7 +1,6 @@
 package sandbox
 
 import cats.Eq
-import cats.instances.option._
 import cats.instances.int._ // for int eq
 import cats.instances.string._ // for string eq
 import cats.syntax.eq._ // for === and =!=
