@@ -36,4 +36,6 @@ object Main extends App {
   println(BooleanMonoids.AndBoolean.combine(true, false)) // true
   println(BooleanMonoids.OrBoolean.combine(true, false)) // true
   println(BooleanMonoids.OrBoolean.combine(true, false)) // true
+
+  // Exercise 2.4 https://www.scalawithcats.com/dist/scala-with-cats.html#exercise-all-set-for-monoids
 }
