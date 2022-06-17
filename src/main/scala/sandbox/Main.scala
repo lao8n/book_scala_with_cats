@@ -38,4 +38,9 @@ object Main extends App {
   println(BooleanMonoids.OrBoolean.combine(true, false)) // true
 
   // Exercise 2.4 https://www.scalawithcats.com/dist/scala-with-cats.html#exercise-all-set-for-monoids
+  println("Exercise 2.4")
+  println(SetMonoids.UnionSet.combine(Set("1", "2"), Set("2", "3")))
+  println(SetMonoids.IntersectionSet.combine(Set("1", "2"), Set("2", "3")))
+
+  // Exercise 2.5.4 https://www.scalawithcats.com/dist/scala-with-cats.html#exercise-adding-all-the-things
 }

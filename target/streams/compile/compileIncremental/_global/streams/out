@@ -1,25 +1,24 @@
 [0m[[0m[0mdebug[0m] [0m[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
 [0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Ex2p3.scala, /Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Main.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Ex2p4.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Main.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(/Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/Monoid.class, /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/Semigroup.class, /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/Monoid$.class)[0m
 [0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(sandbox.OrBoolean, sandbox.AndBoolean, sandbox.Semigroup, sandbox.Main, sandbox.Monoid)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(sandbox.Main)[0m
 [0m[[0m[0mdebug[0m] [0m[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Ex2p3.scala)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(sandbox.OrBoolean, sandbox.AndBoolean, sandbox.Semigroup, sandbox.Main, sandbox.Monoid)[0m
-[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Ex2p3.scala, /Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Main.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: sandbox.OrBoolean, sandbox.AndBoolean, sandbox.Semigroup, sandbox.Main, sandbox.Monoid[0m
-[0m[[0m[0mdebug[0m] [0m[0mIncluding sandbox.Monoid by sandbox.Semigroup[0m
-[0m[[0m[0minfo[0m] [0m[0mCompiling 2 Scala sources to /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(sandbox.Main)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Ex2p4.scala, /Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Main.scala, /Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Ex2p3.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: sandbox.Main[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 3 Scala sources to /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.3.5:compile for Scala 2.13.1[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.3.5:compile for Scala 2.13.1[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 6d101e5b for Scala compiler version 2.13.1[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 3ab2aba2 for Scala compiler version 2.13.1[0m
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-encoding[0m
 [0m[[0m[0mdebug[0m] [0m[0m	utf8[0m
@@ -63,60 +62,44 @@
 [0m[[0m[0mdebug[0m] [0m[0m	/Users/nicholasdrake/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes:/Users/nicholasdrake/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_2.13/2.0.0/cats-core_2.13-2.0.0.jar:/Users/nicholasdrake/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-macros_2.13/2.0.0/cats-macros_2.13-2.0.0.jar:/Users/nicholasdrake/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_2.13/2.0.0/cats-kernel_2.13-2.0.0.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 3.094288688 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 2.53925121 s[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone compiling.[0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from sandbox.Monoid...[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: sandbox.Monoid[0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(sandbox.Monoid)[0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidate by local inheritance: sandbox.Monoid -> Set(sandbox.BooleanMonoids)[0m
-[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of sandbox.Main. This dependency is not being considered for invalidation.[0m
-[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(sandbox.Monoid,ModifiedNames(changes = UsedName(finalize,[Default]))) invalidates 2 classes due to The sandbox.Monoid has the following regular definitions changed:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]).[0m
-[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(sandbox.Monoid)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	> by local inheritance: Set(sandbox.BooleanMonoids)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from sandbox.SetMonoids...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: sandbox.SetMonoids[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(sandbox.SetMonoids)[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe following member ref dependencies of sandbox.SetMonoids are invalidated:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sandbox.Main[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(sandbox.SetMonoids,ModifiedNames(changes = UsedName(clone,[Default]), UsedName(##,[Default]), UsedName(getClass,[Default]), UsedName(SymDiffMonoid,[Implicit]), UsedName(hashCode,[Default]), UsedName(ne,[Default]), UsedName(SetMonoids,[Default]), UsedName(synchronized,[Default]), UsedName(notifyAll,[Default]), UsedName(!=,[Default]), UsedName(IntersectionSet,[Implicit]), UsedName(eq,[Default]), UsedName(isInstanceOf,[Default]), UsedName(asInstanceOf,[Default]), UsedName($asInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(wait,[Default]), UsedName(toString,[Default]), UsedName(==,[Default]), UsedName(UnionSet,[Implicit]), UsedName(finalize,[Default]), UsedName(notify,[Default]), UsedName(equals,[Default]))) invalidates 2 classes due to The sandbox.SetMonoids has the following implicit definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(SymDiffMonoid,[Implicit]), UsedName(IntersectionSet,[Implicit]), UsedName(UnionSet,[Implicit]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(sandbox.SetMonoids)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	> [0m
-[0m[[0m[0mdebug[0m] [0m[0m        [0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from sandbox.OrBoolean...[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: sandbox.OrBoolean[0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(sandbox.OrBoolean)[0m
-[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(sandbox.OrBoolean,ModifiedNames(changes = UsedName($asInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(sandbox;OrBoolean;init;,[Default]), UsedName(OrBoolean,[Default]), UsedName(asInstanceOf,[Default]), UsedName(##,[Default]), UsedName(wait,[Default]), UsedName(hashCode,[Default]), UsedName(getClass,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(eq,[Default]), UsedName(toString,[Default]), UsedName(finalize,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(isInstanceOf,[Default]), UsedName(combine,[Default]), UsedName(!=,[Default]), UsedName(synchronized,[Default]), UsedName(empty,[Default]), UsedName(notifyAll,[Default]), UsedName(==,[Default]))) invalidates 1 classes due to The sandbox.OrBoolean has the following regular definitions changed:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	UsedName($asInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(sandbox;OrBoolean;init;,[Default]), UsedName(OrBoolean,[Default]), UsedName(asInstanceOf,[Default]), UsedName(##,[Default]), UsedName(wait,[Default]), UsedName(hashCode,[Default]), UsedName(getClass,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(eq,[Default]), UsedName(toString,[Default]), UsedName(finalize,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(isInstanceOf,[Default]), UsedName(combine,[Default]), UsedName(!=,[Default]), UsedName(synchronized,[Default]), UsedName(empty,[Default]), UsedName(notifyAll,[Default]), UsedName(==,[Default]).[0m
-[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(sandbox.OrBoolean)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	> [0m
-[0m[[0m[0mdebug[0m] [0m[0m	> [0m
-[0m[[0m[0mdebug[0m] [0m[0m        [0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from sandbox.AndBoolean...[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: sandbox.AndBoolean[0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(sandbox.AndBoolean)[0m
-[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(sandbox.AndBoolean,ModifiedNames(changes = UsedName($asInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(asInstanceOf,[Default]), UsedName(##,[Default]), UsedName(wait,[Default]), UsedName(hashCode,[Default]), UsedName(getClass,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(eq,[Default]), UsedName(toString,[Default]), UsedName(finalize,[Default]), UsedName(AndBoolean,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(isInstanceOf,[Default]), UsedName(combine,[Default]), UsedName(!=,[Default]), UsedName(synchronized,[Default]), UsedName(empty,[Default]), UsedName(sandbox;AndBoolean;init;,[Default]), UsedName(notifyAll,[Default]), UsedName(==,[Default]))) invalidates 1 classes due to The sandbox.AndBoolean has the following regular definitions changed:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	UsedName($asInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(asInstanceOf,[Default]), UsedName(##,[Default]), UsedName(wait,[Default]), UsedName(hashCode,[Default]), UsedName(getClass,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(eq,[Default]), UsedName(toString,[Default]), UsedName(finalize,[Default]), UsedName(AndBoolean,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(isInstanceOf,[Default]), UsedName(combine,[Default]), UsedName(!=,[Default]), UsedName(synchronized,[Default]), UsedName(empty,[Default]), UsedName(sandbox;AndBoolean;init;,[Default]), UsedName(notifyAll,[Default]), UsedName(==,[Default]).[0m
-[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(sandbox.AndBoolean)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	> [0m
-[0m[[0m[0mdebug[0m] [0m[0m	> [0m
-[0m[[0m[0mdebug[0m] [0m[0m        [0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from sandbox.Main...[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: sandbox.Main[0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(sandbox.Main)[0m
-[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(sandbox.Main,ModifiedNames(changes = UsedName(boolean2,[Default]), UsedName(boolean1,[Default]))) invalidates 1 classes due to The sandbox.Main has the following regular definitions changed:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	UsedName(boolean2,[Default]), UsedName(boolean1,[Default]).[0m
-[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(sandbox.Main)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	> [0m
-[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by member reference: Set(sandbox.Main)[0m
 [0m[[0m[0mdebug[0m] [0m[0m        [0m
 [0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from sandbox.BooleanMonoids...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: sandbox.BooleanMonoids[0m
 [0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(sandbox.BooleanMonoids)[0m
-[0m[[0m[0mdebug[0m] [0m[0mThe following member ref dependencies of sandbox.BooleanMonoids are invalidated:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	sandbox.Main[0m
-[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(sandbox.BooleanMonoids,ModifiedNames(changes = UsedName($asInstanceOf,[Default]), UsedName($isInstanceOf,[Default]), UsedName(asInstanceOf,[Default]), UsedName(AndBoolean,[Implicit]), UsedName(##,[Default]), UsedName(XnorBoolean,[Implicit]), UsedName(wait,[Default]), UsedName(hashCode,[Default]), UsedName(XorBoolean,[Implicit]), UsedName(getClass,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(eq,[Default]), UsedName(toString,[Default]), UsedName(finalize,[Default]), UsedName(clone,[Default]), UsedName(OrBoolean,[Implicit]), UsedName(notify,[Default]), UsedName(isInstanceOf,[Default]), UsedName(!=,[Default]), UsedName(synchronized,[Default]), UsedName(notifyAll,[Default]), UsedName(BooleanMonoids,[Default]), UsedName(==,[Default]))) invalidates 2 classes due to The sandbox.BooleanMonoids has the following implicit definitions changed:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	UsedName(AndBoolean,[Implicit]), UsedName(XnorBoolean,[Implicit]), UsedName(XorBoolean,[Implicit]), UsedName(OrBoolean,[Implicit]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of sandbox.Main. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(sandbox.BooleanMonoids,ModifiedNames(changes = UsedName(finalize,[Default]))) invalidates 1 classes due to The sandbox.BooleanMonoids has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]).[0m
 [0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(sandbox.BooleanMonoids)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	> [0m
-[0m[[0m[0mdebug[0m] [0m[0m	> by member reference: Set(sandbox.Main)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from sandbox.Monoid...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: sandbox.Monoid[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(sandbox.Monoid)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidate by local inheritance: sandbox.Monoid -> Set(sandbox.BooleanMonoids, sandbox.SetMonoids)[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of sandbox.Main. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of sandbox.SetMonoids. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(sandbox.Monoid,ModifiedNames(changes = UsedName(finalize,[Default]))) invalidates 3 classes due to The sandbox.Monoid has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(sandbox.Monoid)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by local inheritance: Set(sandbox.BooleanMonoids, sandbox.SetMonoids)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
 [0m[[0m[0mdebug[0m] [0m[0m        [0m
 [0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set(sandbox.Main)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: sandbox.Main[0m
 [0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m
