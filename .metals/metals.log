@@ -132,3 +132,77 @@
 2022.05.25 17:28:52 INFO  time: compiled scalawithcats in 2.67s
 2022.05.25 17:56:05 INFO  compiling scalawithcats (1 scala source)
 2022.05.25 17:56:05 INFO  time: compiled scalawithcats in 0.2s
+2022.05.25 18:11:40 INFO  shutting down Metals
+2022.05.25 18:11:40 INFO  Shut down connection with build server.
+2022.05.25 18:11:40 INFO  Shut down connection with build server.
+2022.05.25 18:11:40 INFO  Shut down connection with build server.
+2022.05.26 09:42:27 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nicholasdrake/Documents/scalawithcats/.metals/lsp.trace.json or /Users/nicholasdrake/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.05.26 09:42:29 INFO  logging to file /Users/nicholasdrake/Documents/scalawithcats/.metals/metals.log
+2022.05.26 09:42:29 INFO  Started: Metals version 0.11.5 in workspace '/Users/nicholasdrake/Documents/scalawithcats' for client Visual Studio Code 1.67.1.
+2022.05.26 09:42:34 INFO  time: initialize in 4.35s
+2022.05.26 09:42:36 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.26 09:42:37 INFO  Attempting to connect to the build server...
+2022.05.26 09:42:37 INFO  skipping build import with status 'Installed'
+2022.05.26 09:42:46 INFO  no build target found for /Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Ex1p3.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.26 09:42:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nicholasdrake/Documents/scalawithcats/.metals/bsp.trace.json or /Users/nicholasdrake/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.05.26 09:42:48 INFO  Attempting to connect to the build server...
+2022.05.26 09:42:48 INFO  Attempting to connect to the build server...
+2022.05.26 09:42:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nicholasdrake/Documents/scalawithcats/project/project/.metals/bsp.trace.json or /Users/nicholasdrake/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.05.26 09:42:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nicholasdrake/Documents/scalawithcats/project/.metals/bsp.trace.json or /Users/nicholasdrake/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.05.26 09:42:49 INFO  time: Connected to build server in 12s
+2022.05.26 09:42:49 INFO  Connected to Build server: Bloop v1.5.0
+2022.05.26 09:42:49 INFO  time: Imported build in 0.16s
+2022.05.26 09:42:53 INFO  time: code lens generation in 14s
+2022.05.26 09:42:56 INFO  time: indexed workspace in 7.14s
+2022.05.26 18:10:38 INFO  shutting down Metals
+2022.05.26 18:10:38 INFO  Shut down connection with build server.
+2022.05.26 18:10:38 INFO  Shut down connection with build server.
+2022.05.26 18:10:38 INFO  Shut down connection with build server.
+2022.05.27 10:03:50 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nicholasdrake/Documents/scalawithcats/.metals/lsp.trace.json or /Users/nicholasdrake/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.05.27 10:03:51 INFO  logging to file /Users/nicholasdrake/Documents/scalawithcats/.metals/metals.log
+2022.05.27 10:03:51 INFO  Started: Metals version 0.11.5 in workspace '/Users/nicholasdrake/Documents/scalawithcats' for client Visual Studio Code 1.67.1.
+2022.05.27 10:03:57 INFO  time: initialize in 5.21s
+2022.05.27 10:03:57 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.27 10:03:58 INFO  Attempting to connect to the build server...
+2022.05.27 10:03:58 INFO  skipping build import with status 'Installed'
+2022.05.27 10:04:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nicholasdrake/Documents/scalawithcats/.metals/bsp.trace.json or /Users/nicholasdrake/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.05.27 10:04:03 INFO  Attempting to connect to the build server...
+2022.05.27 10:04:03 INFO  Attempting to connect to the build server...
+2022.05.27 10:04:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nicholasdrake/Documents/scalawithcats/project/project/.metals/bsp.trace.json or /Users/nicholasdrake/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.05.27 10:04:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nicholasdrake/Documents/scalawithcats/project/.metals/bsp.trace.json or /Users/nicholasdrake/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.05.27 10:04:03 INFO  time: Connected to build server in 5.87s
+2022.05.27 10:04:03 INFO  Connected to Build server: Bloop v1.5.0
+2022.05.27 10:04:07 INFO  no build target found for /Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Ex1p3.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.27 10:04:08 INFO  time: Imported build in 0.15s
+2022.05.27 10:04:07 INFO  time: code lens generation in 6.67s
+2022.05.27 10:04:13 INFO  time: indexed workspace in 5.62s
+2022.05.27 14:32:11 INFO  compiling scalawithcats (1 scala source)
+2022.05.27 14:32:14 INFO  time: compiled scalawithcats in 3.46s
+May 27, 2022 3:01:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.05.27 18:23:01 INFO  shutting down Metals
+2022.05.27 18:23:01 INFO  Shut down connection with build server.
+2022.05.27 18:23:01 INFO  Shut down connection with build server.
+2022.05.27 18:23:01 INFO  Shut down connection with build server.
+2022.06.13 10:00:25 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nicholasdrake/Documents/scalawithcats/.metals/lsp.trace.json or /Users/nicholasdrake/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.06.13 10:00:26 INFO  logging to file /Users/nicholasdrake/Documents/scalawithcats/.metals/metals.log
+2022.06.13 10:00:26 INFO  Started: Metals version 0.11.5 in workspace '/Users/nicholasdrake/Documents/scalawithcats' for client Visual Studio Code 1.67.1.
+2022.06.13 10:00:27 INFO  time: initialize in 1.64s
+2022.06.13 10:00:27 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.06.13 10:00:28 INFO  Attempting to connect to the build server...
+2022.06.13 10:00:28 INFO  skipping build import with status 'Installed'
+2022.06.13 10:00:32 INFO  no build target found for /Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Main.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.06.13 10:00:35 INFO  time: code lens generation in 6.22s
+2022.06.13 10:00:35 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nicholasdrake/Documents/scalawithcats/.metals/bsp.trace.json or /Users/nicholasdrake/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.06.13 10:00:35 INFO  Attempting to connect to the build server...
+2022.06.13 10:00:35 INFO  Attempting to connect to the build server...
+2022.06.13 10:00:35 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nicholasdrake/Documents/scalawithcats/project/.metals/bsp.trace.json or /Users/nicholasdrake/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.06.13 10:00:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nicholasdrake/Documents/scalawithcats/project/project/.metals/bsp.trace.json or /Users/nicholasdrake/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.06.13 10:00:36 INFO  time: Connected to build server in 7.35s
+2022.06.13 10:00:36 INFO  Connected to Build server: Bloop v1.5.0
+2022.06.13 10:00:36 INFO  time: Imported build in 0.15s
+2022.06.13 10:00:38 INFO  time: indexed workspace in 2.02s
+2022.06.13 10:02:38 INFO  shutting down Metals
+2022.06.13 10:02:38 INFO  Shut down connection with build server.
+2022.06.13 10:02:38 INFO  Shut down connection with build server.
+2022.06.13 10:02:38 INFO  Shut down connection with build server.
