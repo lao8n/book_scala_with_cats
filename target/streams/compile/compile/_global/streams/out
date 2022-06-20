@@ -1,10 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Ex2p4.scala:3:7: Semigroup is already defined as trait Semigroup[0m
-[0m[[0m[31merror[0m] [0m[0mtrait Semigroup[A] {[0m
-[0m[[0m[31merror[0m] [0m[0m      ^[0m
-[0m[[0m[31merror[0m] [0m[0m/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Ex2p4.scala:7:7: Monoid is already defined as trait Monoid[0m
-[0m[[0m[31merror[0m] [0m[0mtrait Monoid[A] extends Semigroup[A] {[0m
-[0m[[0m[31merror[0m] [0m[0m      ^[0m
-[0m[[0m[31merror[0m] [0m[0m/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Ex2p4.scala:11:8: Monoid is already defined as object Monoid[0m
-[0m[[0m[31merror[0m] [0m[0mobject Monoid {[0m
-[0m[[0m[31merror[0m] [0m[0m       ^[0m
-[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Ex2p5p4.scala:25:25: too many arguments (3) for method apply: (totalCost: Double, quantity: Double)sandbox.Order in object Order[0m
+[0m[[0m[31merror[0m] [0m[0m        o1.quantity, o2.quantity[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

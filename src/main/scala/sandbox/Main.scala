@@ -5,6 +5,7 @@ import cats.instances.string._
 import cats.syntax.semigroup._
 import cats.syntax.eq._ // for === and =!=
 import cats.instances.option._
+import cats.instances.int._
 
 object Main extends App {
   println("Hello " |+| "Cats!")
@@ -43,4 +44,9 @@ object Main extends App {
   println(SetMonoids.IntersectionSet.combine(Set("1", "2"), Set("2", "3")))
 
   // Exercise 2.5.4 https://www.scalawithcats.com/dist/scala-with-cats.html#exercise-adding-all-the-things
+  println("Exercise 2.5.4")
+  println(SuperAdder.addList(List(3, 2, 4)))
+  println(SuperAdder.add(List(3, 2, 4)))
+  println(SuperAdder.add(List(Some(1), None, Some(2), Some(3))))
+  println(SuperAdder.add(List(Order(3.5, 2.0), Order(1, 4))))
 }
