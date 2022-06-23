@@ -14,7 +14,6 @@ object SuperAdder {
   }
 }
 
-
 case class Order(totalCost: Double, quantity: Double)
 
 object Order {

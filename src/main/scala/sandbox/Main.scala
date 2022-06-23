@@ -6,6 +6,7 @@ import cats.syntax.semigroup._
 import cats.syntax.eq._ // for === and =!=
 import cats.instances.option._
 import cats.instances.int._
+import cats.syntax.functor._ // for functor map
 
 object Main extends App {
   println("Hello " |+| "Cats!")
@@ -49,4 +50,9 @@ object Main extends App {
   println(SuperAdder.add(List(3, 2, 4)))
   println(SuperAdder.add(List(Some(1), None, Some(2), Some(3))))
   println(SuperAdder.add(List(Order(3.5, 2.0), Order(1, 4))))
+
+  // Exercise 3.5.4 https://www.scalawithcats.com/dist/scala-with-cats.html#exercise-branching-out-with-functors
+  println("Exercise 3.5.4")
+  println(Tree.leaf(100).map(_ * 2))
+  println(Tree.branch(Tree.leaf(10), Tree.leaf(20)).map(_ * 2))
 }

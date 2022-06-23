@@ -1,4 +1,7 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Ex2p5p4.scala:25:25: too many arguments (3) for method apply: (totalCost: Double, quantity: Double)sandbox.Order in object Order[0m
-[0m[[0m[31merror[0m] [0m[0m        o1.quantity, o2.quantity[0m
-[0m[[0m[31merror[0m] [0m[0m                        ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Main.scala:55:26: value map is not a member of sandbox.Tree[Int][0m
+[0m[[0m[31merror[0m] [0m[0m  println(Tree.leaf(100).map(_ * 2))[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Main.scala:56:53: value map is not a member of sandbox.Tree[Int][0m
+[0m[[0m[31merror[0m] [0m[0m  println(Tree.branch(Tree.leaf(10), Tree.leaf(20)).map(_ * 2))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
