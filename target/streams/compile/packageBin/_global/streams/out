@@ -2,6 +2,8 @@
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sandbox/PrintableContraMap$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/PrintableContraMap$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/Order$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/Order$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/Main$.class[0m
@@ -12,6 +14,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/BooleanMonoids$$anon$4.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/SuperAdder$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/SuperAdder$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sandbox/PrintableContraMap$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/PrintableContraMap$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/Branch.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/Branch.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/PrintableInstances.class[0m
@@ -22,6 +26,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/SetMonoids.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/BooleanMonoids$$anon$2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/BooleanMonoids$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sandbox/PrintableContraMap$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/PrintableContraMap$$anon$3.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/PrintableInstances$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/PrintableInstances$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/Printable$.class[0m
@@ -36,6 +42,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/Order.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/Cat.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/Cat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sandbox/PrintableContraMap$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/PrintableContraMap$$anon$2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/CatEq$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/CatEq$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/BooleanMonoids$$anon$3.class[0m
@@ -50,6 +58,10 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/SetMonoids$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/SetMonoids$$anon$3.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/SetMonoids$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sandbox/Box.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/Box.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sandbox/Box$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/Box$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/Tree$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/Tree$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/Order$.class[0m
@@ -84,6 +96,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/Main$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/CatEq.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/CatEq.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sandbox/PrintableContraMap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/PrintableContraMap.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/Semigroup.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/Semigroup.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

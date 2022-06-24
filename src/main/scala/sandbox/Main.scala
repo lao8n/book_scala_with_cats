@@ -55,4 +55,10 @@ object Main extends App {
   println("Exercise 3.5.4")
   println(Tree.leaf(100).map(_ * 2))
   println(Tree.branch(Tree.leaf(10), Tree.leaf(20)).map(_ * 2))
+
+  // Exercise 3.5.5.1 https://www.scalawithcats.com/dist/scala-with-cats.html#contravariant
+  println(PrintableContraMap.format("hello"))
+  println(PrintableContraMap.format(true))
+  println(PrintableContraMap.format(Box("hello world")))
+  println(PrintableContraMap.format(Box("hello world")))
 }

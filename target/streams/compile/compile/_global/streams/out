@@ -1,7 +1,7 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Main.scala:55:26: value map is not a member of sandbox.Tree[Int][0m
-[0m[[0m[31merror[0m] [0m[0m  println(Tree.leaf(100).map(_ * 2))[0m
-[0m[[0m[31merror[0m] [0m[0m                         ^[0m
-[0m[[0m[31merror[0m] [0m[0m/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Main.scala:56:53: value map is not a member of sandbox.Tree[Int][0m
-[0m[[0m[31merror[0m] [0m[0m  println(Tree.branch(Tree.leaf(10), Tree.leaf(20)).map(_ * 2))[0m
-[0m[[0m[31merror[0m] [0m[0m                                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Main.scala:62:30: value format is not a member of object sandbox.PrintableContraMap[0m
+[0m[[0m[31merror[0m] [0m[0m  println(PrintableContraMap.format("hello"))[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Main.scala:63:30: value format is not a member of object sandbox.PrintableContraMap[0m
+[0m[[0m[31merror[0m] [0m[0m  println(PrintableContraMap.format(true))[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
 [0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
