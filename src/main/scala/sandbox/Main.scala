@@ -3,10 +3,10 @@ package sandbox
 import cats.implicits.toShow
 import cats.instances.string._
 import cats.syntax.semigroup._
-import cats.syntax.eq._ // for === and =!=
+import cats.syntax.eq._
 import cats.instances.option._
 import cats.instances.int._
-import cats.syntax.functor._ // for functor map
+import cats.syntax.functor._
 
 object Main extends App {
   println("Hello " |+| "Cats!")
@@ -61,4 +61,16 @@ object Main extends App {
   println(PrintableContraMap.format(true))
   println(PrintableContraMap.format(Box("hello world")))
   println(PrintableContraMap.format(Box("hello world")))
+
+  // Exercise 3.5.6.1 https://www.scalawithcats.com/dist/scala-with-cats.html#sec:functors:invariant
+  println(InvariantCodec.encode(5))
+  println(InvariantCodec.encode("hello"))
+  println(InvariantCodec.encode(false))
+  println(InvariantCodec.encode(123.4))
+  println(InvariantCodec.encode(Box(123.4)))
+  println(InvariantCodec.decode[Int]("5"))
+  println(InvariantCodec.decode[String]("hello"))
+  println(InvariantCodec.decode[Boolean]("false"))
+  println(InvariantCodec.decode[Double]("123.4"))
+  println(InvariantCodec.decode[Box[Double]]("123.4"))
 }

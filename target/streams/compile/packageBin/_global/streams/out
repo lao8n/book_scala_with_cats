@@ -48,10 +48,14 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/CatEq$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/BooleanMonoids$$anon$3.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/BooleanMonoids$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sandbox/InvariantCodec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/InvariantCodec.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/Printable.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/Printable.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/BooleanMonoids$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/BooleanMonoids$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sandbox/InvariantCodec$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/InvariantCodec$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/PrintableInstances$$anon$2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/PrintableInstances$$anon$2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/SetMonoids$$anon$1.class[0m
@@ -64,6 +68,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/Box$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/Tree$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/Tree$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sandbox/InvariantCodec$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/InvariantCodec$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/Order$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/Order$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/Leaf.class[0m
@@ -80,6 +86,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/SetMonoids$$anon$2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/PrintableInstances$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/PrintableInstances$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sandbox/InvariantCodec$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/InvariantCodec$$anon$2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/BooleanMonoids$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/nicholasdrake/Documents/scalawithcats/target/scala-2.13/classes/sandbox/BooleanMonoids$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	sandbox/Main.class[0m

@@ -1,7 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Main.scala:62:30: value format is not a member of object sandbox.PrintableContraMap[0m
-[0m[[0m[31merror[0m] [0m[0m  println(PrintableContraMap.format("hello"))[0m
-[0m[[0m[31merror[0m] [0m[0m                             ^[0m
-[0m[[0m[31merror[0m] [0m[0m/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Main.scala:63:30: value format is not a member of object sandbox.PrintableContraMap[0m
-[0m[[0m[31merror[0m] [0m[0m  println(PrintableContraMap.format(true))[0m
-[0m[[0m[31merror[0m] [0m[0m                             ^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nicholasdrake/Documents/scalawithcats/src/main/scala/sandbox/Main.scala:11:34: Unused import[0m
+[0m[[0m[31merror[0m] [0m[0mimport javax.management.relation.InvalidRoleInfoException // for functor map[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
