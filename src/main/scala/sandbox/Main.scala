@@ -73,4 +73,8 @@ object Main extends App {
   println(InvariantCodec.decode[Boolean]("false"))
   println(InvariantCodec.decode[Double]("123.4"))
   println(InvariantCodec.decode[Box[Double]]("123.4"))
+
+  // Exercise 4.1.2 https://www.scalawithcats.com/dist/scala-with-cats.html#exercise-getting-func-y
+  println(Some(3).map(x => x + 1))
+  // println(None.map(x => x + 1))
 }
